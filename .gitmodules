@@ -1,0 +1,3 @@
+[submodule "libtorrent.git"]
+	path = libtorrent.git
+	url = git@github.com:hradec/libtorrent.git
